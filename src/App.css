@@ -1,0 +1,23 @@
+/* App.css */
+.blur-background {
+    filter: blur(5px);
+    /* Sesuaikan nilai blur sesuai kebutuhan */
+}
+
+/* Menyusun modal di tengah */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
