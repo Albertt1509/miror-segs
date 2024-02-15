@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
 # segs-mirror
-
-comming soon
->>>>>>> 61594a0 (Update README.md)
+<img width="300" align="center"  src="https://media1.tenor.com/m/MvhbQB1zxJMAAAAd/bocchi-the-rock.gif">
+Saya cuma gabut.
